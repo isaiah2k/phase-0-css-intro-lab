@@ -1,0 +1,288 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 15,
+    "passes": 15,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-05-25T07:34:11.406Z",
+    "end": "2024-05-25T07:34:11.418Z",
+    "duration": 12
+  },
+  "tests": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains valid CSS",
+      "fullTitle": "index.css contains valid CSS",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for the <body> tag",
+      "fullTitle": "index.css has a rule for the <body> tag",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <body> background to #00b3e6",
+      "fullTitle": "index.css sets <body> background to #00b3e6",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for <div> tags",
+      "fullTitle": "index.css has a rule for <div> tags",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> width to 700px",
+      "fullTitle": "index.css sets <div> width to 700px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> margin to auto",
+      "fullTitle": "index.css sets <div> margin to auto",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> font-family to 'Helvetica Neue'",
+      "fullTitle": "index.css sets <div> font-family to 'Helvetica Neue'",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> background to white",
+      "fullTitle": "index.css sets <div> background to white",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> padding to 30px",
+      "fullTitle": "index.css sets <div> padding to 30px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for elements with an id of main-header",
+      "fullTitle": "index.css has a rule for elements with an id of main-header",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #main-header font-size to 22px",
+      "fullTitle": "index.css sets #main-header font-size to 22px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for elements with a class of perspective-questions",
+      "fullTitle": "index.css has a rule for elements with a class of perspective-questions",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets .perspective-questions font-style to italic",
+      "fullTitle": "index.css sets .perspective-questions font-style to italic",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains valid CSS",
+      "fullTitle": "index.css contains valid CSS",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for the <body> tag",
+      "fullTitle": "index.css has a rule for the <body> tag",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <body> background to #00b3e6",
+      "fullTitle": "index.css sets <body> background to #00b3e6",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for <div> tags",
+      "fullTitle": "index.css has a rule for <div> tags",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> width to 700px",
+      "fullTitle": "index.css sets <div> width to 700px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> margin to auto",
+      "fullTitle": "index.css sets <div> margin to auto",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> font-family to 'Helvetica Neue'",
+      "fullTitle": "index.css sets <div> font-family to 'Helvetica Neue'",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> background to white",
+      "fullTitle": "index.css sets <div> background to white",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets <div> padding to 30px",
+      "fullTitle": "index.css sets <div> padding to 30px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for elements with an id of main-header",
+      "fullTitle": "index.css has a rule for elements with an id of main-header",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #main-header font-size to 22px",
+      "fullTitle": "index.css sets #main-header font-size to 22px",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a rule for elements with a class of perspective-questions",
+      "fullTitle": "index.css has a rule for elements with a class of perspective-questions",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets .perspective-questions font-style to italic",
+      "fullTitle": "index.css sets .perspective-questions font-style to italic",
+      "file": "/Users/isaiahmitchell/Development/code/se-prep/phase-0-css-intro-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
